@@ -9,7 +9,7 @@ The server runs on chessigma.com, so there is nothing to install. This repositor
 
 ## Connect
 
-**Claude** (claude.ai and the desktop app): [Add to Claude](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Chessigma&connectorUrl=https%3A%2F%2Fwww.chessigma.com%2Fapi%2Fmcp), choose no sign-in, then **Add**. Or open **Customize > Connectors**, click **+ Add**, then **Add custom connector**, and paste the server URL.
+**Claude** (web, desktop and mobile apps): add [Chessigma from Claude's connector directory](https://claude.ai/directory/chessigma), or search for Chessigma in **Customize > Connectors**. No account or sign-in.
 
 **Claude Code**
 
