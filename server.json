@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.chessigma/chessigma",
+  "title": "Chessigma",
+  "description": "Chess opening guides and names, FEN and PGN checks, the daily chess puzzle and Elo estimates.",
+  "version": "2.0.0",
+  "websiteUrl": "https://www.chessigma.com/developers/mcp",
+  "repository": {
+    "url": "https://github.com/mehdi-bh/chessigma-mcp",
+    "source": "github",
+    "id": "1402214128"
+  },
+  "icons": [
+    {
+      "src": "https://www.chessigma.com/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["500x500"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.chessigma.com/api/mcp"
+    }
+  ]
+}
